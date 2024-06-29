@@ -1,0 +1,31 @@
+Lire cette page explicative : https://www.voilec.com/pages/ws2812.php
+
+
+///////////////////////////////////////////////
+
+Classe de base
+
+Classe <C_WS2812> table des couleurs et des nuances
+
+///////////////////////////////////////////////
+
+Fichiers ino
+
+all_colors : montre sur un panneau 8*32 les couleurs identifiables et leurs trois nuances optimisées.
+
+rolling_fonts : fait défiler des textes. 
+
+sweep_256 : montre les deux adressages des pixels
+
+increment_colors : fait varier chaque couleur de 0 à 255, 
+
+bouncing_arrow : Fait rebondir une flèche
+
+french_flag : tout est dit
+
+french_flag_moving : Plus subtil, avec du vent ! 
+
+///////////////////////////////////////////////
+
+Christian Couderc   www.voilec.com
+Copyright 2024
