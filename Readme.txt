@@ -30,5 +30,9 @@ french_flag_moving: More subtle, with wind!
  
 ///////////////////////////////////////////////
 
-Christian Couderc   www.voilec.com
++ Eagle documents and pictures of 2023/08 version ESP32 S3 board with 3 WS2812
+
+///////////////////////////////////////////////
+
+Christian Couderc   www.voilec.com 
 Copyright 2024
